@@ -20,3 +20,6 @@ emu
 .\#*
 *~
 ~*
+
+#kdevelop file
+*.kdev4
